@@ -1,0 +1,14 @@
+
+path: /content/DATA/
+train: train/images
+val: val/images
+
+names:
+ 0: anger
+ 1: null
+ 2: none
+ 3: fear
+ 4: happy
+ 5: neutral
+ 6: sad
+ 7: surprise
